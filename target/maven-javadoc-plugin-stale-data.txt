@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/91822/Documents/NetBeansProjects/Statistical_Estimation/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/91822/Documents/NetBeansProjects/Statistical_Estimation/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Statistical_Estimation 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Statistical_Estimation 1.0-SNAPSHOT API'
+com.mycompany.statistical_estimation
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\src\main\java = 1697650312190
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\allclasses-index.html = 1698486709538
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\allpackages-index.html = 1698486709544
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\copy.svg = 1698486709641
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\element-list = 1698486709310
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\help-doc.html = 1698486709630
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\index-all.html = 1698486709606
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\index.html = 1698486709618
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\link.svg = 1698486709644
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\member-search-index.js = 1698486709556
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\module-search-index.js = 1698486709547
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\overview-tree.html = 1698486709502
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\package-search-index.js = 1698486709550
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\script.js = 1698486709639
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\search-page.js = 1698486709653
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\search.html = 1698486709614
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\search.js = 1698486709650
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\serialized-form.html = 1698486709417
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\stylesheet.css = 1698486709635
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\tag-search-index.js = 1698486709558
+C:\Users\91822\Documents\NetBeansProjects\Statistical_Estimation\target\site\apidocs\type-search-index.js = 1698486709553
